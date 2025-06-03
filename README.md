@@ -7,3 +7,6 @@
 
 ## pacotes:
 - arquivo requirements.txt
+
+## video:
+- https://youtu.be/EkDwDoueuw4
